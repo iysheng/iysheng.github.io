@@ -97,7 +97,7 @@ author:
   name             : "Yang Sheng"
   avatar           : "/assets/images/avatar.png"
   bio              : "I am an **embedded software** developer ."
-  location         : "Lianyungang . China"
+  location         : "China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
