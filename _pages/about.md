@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: default
 title: "About"
 excerpt: "Introduce myself"
 layouts_gallery:

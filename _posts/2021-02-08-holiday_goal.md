@@ -9,3 +9,4 @@
 * [ ] 完善 gd32103 系列的 I2C 驱动开发和 pr
 * [ ] 完善 gd32103 系列的 RTC 驱动开发和 pr
 * [ ] 完善 gd32103 系列的 watchdog 驱动开发和 pr
+* [ ] 继续学习 python，输出 python 的学习笔记到 Notes
